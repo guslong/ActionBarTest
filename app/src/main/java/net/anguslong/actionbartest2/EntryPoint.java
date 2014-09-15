@@ -81,7 +81,6 @@ public class EntryPoint extends Activity implements ActionBar.TabListener {
 
         }
 
-        fragmentTransaction.commit();
 
 
     }
